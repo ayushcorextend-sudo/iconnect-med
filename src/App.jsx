@@ -137,7 +137,7 @@ export default function App() {
       icon: '📤',
       unread: true,
       time: 'Just now',
-      title: 'Upload Submitted',
+      title: 'UploaSubmitted',
       body: `"${art.title}" is pending Super Admin approval.`,
       channel: 'in_app',
     }, ...n]);
